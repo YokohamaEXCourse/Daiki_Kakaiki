@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638334779700000000
+      ticks: 638341383840000000
     m_Hash: 2362511596
   m_LockFileStatus:
     m_FilePath: /Users/wonder_staff/Documents/GitHub/Unity/Daiki_Kakaiki/kakaiki/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638334779700000000
+      ticks: 638341383840000000
     m_Hash: 1613653515
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
