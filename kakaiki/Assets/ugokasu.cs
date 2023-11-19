@@ -15,7 +15,7 @@ public class ugokasu : MonoBehaviour
     void Update() 
 
         {
-            rb.AddForce(0,0,-5);
+        
         }
     
 }
